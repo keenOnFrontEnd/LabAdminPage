@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3d4ee4d.css",
+    "main.js": "/static/js/main.e23e54c5.js",
+    "static/media/leftCharacter.svg": "/static/media/leftCharacter.323641d92c95dd132c9add2d779b145a.svg",
+    "static/media/logoWhite.svg": "/static/media/logoWhite.18766c05f6b665311af653fdd9ad30f1.svg",
+    "static/media/rightCharacter.svg": "/static/media/rightCharacter.2303a77fbeb1051d8fc1f0283ca52589.svg",
+    "static/media/3177440.png": "/static/media/3177440.0d14c6999b4a5c8e86a7.png",
+    "static/media/gear.svg": "/static/media/gear.8bf66f5aafa3dcf9860e79a878f37367.svg",
+    "static/media/speedometer2.svg": "/static/media/speedometer2.3075f941ca62c06f34d327477d87aab7.svg",
+    "static/media/people.svg": "/static/media/people.080a783f337c25618dac2fe9cc6f8c94.svg",
+    "static/media/journal-check.svg": "/static/media/journal-check.9cd8db9cc2c6a2622b6977bf72c8f45e.svg",
+    "static/media/mortarboard.svg": "/static/media/mortarboard.a9ff1e7552f94d304c2018300bb61a83.svg",
+    "index.html": "/index.html",
+    "static/media/columns-gap.svg": "/static/media/columns-gap.75b6adbde31c28396ff8dca02584ae0b.svg",
+    "main.d3d4ee4d.css.map": "/static/css/main.d3d4ee4d.css.map",
+    "main.e23e54c5.js.map": "/static/js/main.e23e54c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3d4ee4d.css",
+    "static/js/main.e23e54c5.js"
+  ]
+}
